@@ -4,7 +4,7 @@
 Ссылка на проект
 
 
-  Скриншоты моих изображений  https://github.com/KLV67/dixinedvizka/blob/main/2025-02-27_21-21-59.png
+  Скриншоты моих изображений https://github.com/KLV67/dixinedvizka/commit/0bd0de0499f59f750d23c7023b72a24e57c6f87f
  
 
 ## Описание проекта
